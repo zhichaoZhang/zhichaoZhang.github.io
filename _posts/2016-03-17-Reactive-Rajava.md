@@ -6,8 +6,6 @@ date:       2016-03-17 13:03:00
 author:     "Joye"
 header-img: "img/blog/header/post-bg-02.jpg"
 thumbnail: /img/blog/thumbs/thumb02.png
-tags: [Reactive, Rxjava]
-categories: [Rxjava, Android]
 comments: false
 share: false
 ---
