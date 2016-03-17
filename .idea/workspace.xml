@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcd2dfae-f86c-4fc0-8cd8-552671a1b81c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2016-03-17-android-tip.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-11-25-markdown-cheatsheet.md" afterPath="$PROJECT_DIR$/_posts/2015-11-25-markdown-cheatsheet.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-03-17-Reactive-Rajava.md" afterPath="$PROJECT_DIR$/_posts/2016-03-17-Reactive-Rajava.md" />
     </list>
     <ignored path="zhichaoZhang.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2015-11-23-lightbox.md">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -39,17 +39,17 @@
         <entry file="file://$PROJECT_DIR$/_posts/2016-03-17-Reactive-Rajava.md">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="606" column="41" selection-start-line="606" selection-start-column="41" selection-end-line="606" selection-end-column="41" />
+              <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-11-25-markdown-cheatsheet.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2015-11-25-markdown-cheatsheet.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2015-11-25-markdown-cheatsheet.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.04939627">
-              <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -63,6 +63,16 @@
               <folding>
                 <element signature="e#376#423#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2016-03-17-android-tip.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2016-03-17-android-tip.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.96706915">
+              <caret line="246" column="215" selection-start-line="246" selection-start-column="215" selection-end-line="246" selection-end-column="215" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -91,11 +101,12 @@
         <option value="$PROJECT_DIR$/writing/index.html" />
         <option value="$PROJECT_DIR$/_posts/2016-03-17-Reactive-Rajava.md" />
         <option value="$PROJECT_DIR$/_posts/2015-11-25-markdown-cheatsheet.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-03-17-android-tip.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1280" />
+    <option name="x" value="1277" />
     <option name="y" value="23" />
     <option name="width" value="1920" />
     <option name="height" value="1057" />
@@ -210,9 +221,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/writing/category" />
       <recent name="$PROJECT_DIR$/writing/tag" />
-      <recent name="$PROJECT_DIR$/_posts" />
     </key>
   </component>
   <component name="RunManager">
@@ -465,7 +476,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="23" width="1920" height="1057" extended-state="6" />
+    <frame x="1277" y="23" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -619,6 +630,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-11-25-markdown-cheatsheet.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-11-23-lightbox.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-03-17-Reactive-Rajava.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/writing/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.5">
@@ -629,26 +664,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-11-23-lightbox.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2016-03-17-android-tip.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-03-17-Reactive-Rajava.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="606" column="41" selection-start-line="606" selection-start-column="41" selection-end-line="606" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-11-25-markdown-cheatsheet.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.04939627">
-          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.96706915">
+          <caret line="246" column="215" selection-start-line="246" selection-start-column="215" selection-end-line="246" selection-end-column="215" />
           <folding />
         </state>
       </provider>

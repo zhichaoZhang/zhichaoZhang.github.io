@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Markdown Cheatsheet
-subtitle: This is Markdown Cheatsheet 
+subtitle: This is Markdown Cheatsheet
 date:       2016-03-13 12:00:00
 author:     "Joye"
 header-img: "img/blog/header/post-bg-02.jpg"
