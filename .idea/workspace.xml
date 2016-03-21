@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcd2dfae-f86c-4fc0-8cd8-552671a1b81c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-11-23-lightbox.md" afterPath="$PROJECT_DIR$/_posts/2015-11-23-lightbox.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-11-25-markdown-cheatsheet.md" afterPath="$PROJECT_DIR$/_posts/2015-11-25-markdown-cheatsheet.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-03-17-Reactive-Rajava.md" afterPath="$PROJECT_DIR$/_posts/2016-03-17-Reactive-Rajava.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-03-17-android-tip.md" afterPath="$PROJECT_DIR$/_posts/2016-03-17-android-tip.md" />
     </list>
     <ignored path="zhichaoZhang.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -92,7 +87,7 @@
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.7966102">
-              <caret line="66" column="30" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
+              <caret line="66" column="29" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -851,7 +846,7 @@
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7966102">
-          <caret line="66" column="30" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
+          <caret line="66" column="29" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
           <folding />
         </state>
       </provider>
