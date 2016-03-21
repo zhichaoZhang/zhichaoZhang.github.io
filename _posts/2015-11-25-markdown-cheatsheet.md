@@ -6,8 +6,7 @@ date:       2016-03-13 12:00:00
 author:     "Joye"
 header-img: "img/blog/header/post-bg-02.jpg"
 thumbnail: /img/blog/thumbs/thumb02.png
-tags: [tag-name-one, tag-name-two]
-categories: [cat01, cat02]
+tags: [tag-markdown]
 
 ---
 
